@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 import time
-
+112
 # MBTI와 관련된 직업 추천 데이터
 mbti_jobs = {
     "INTJ": ["Scientist 🧑‍🔬", "Engineer 🔧", "Researcher 📚"],
@@ -109,7 +109,7 @@ mbti_description = {
     }
 }
 # 2. 앱에 통합하기
-이제 위 데이터를 streamlit 앱에 통합하여 MBTI 성격에 대한 설명과 추천 직업을 함께 보여줄 수 있도록 코드를 작성합니다.
+#이제 위 데이터를 streamlit 앱에 통합하여 MBTI 성격에 대한 설명과 추천 직업을 함께 보여줄 수 있도록 코드를 작성합니다.
 
 python
 복사
